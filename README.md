@@ -1,4 +1,7 @@
-Prime Number Checker
+<h1>Prime Number Checker</h1>
+<br>
+<br>
+
 This Python project is designed to determine whether a given number is prime or not. The program utilizes simple logic to efficiently check for the primality of the input.
 
 Installation
